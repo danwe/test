@@ -1,0 +1,7 @@
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\bin\AECproj.dll
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\bin\AECproj.pdb
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\bin\EntityFramework.dll
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\bin\EntityFramework.xml
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\obj\Debug\AECproj.dll
+C:\Users\Luiza Nacshon\Documents\Visual Studio 2010\Projects\AECproj\AECproj\obj\Debug\AECproj.pdb
